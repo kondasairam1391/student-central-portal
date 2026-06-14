@@ -1,0 +1,38 @@
+.list-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 10px;
+  padding-right: 55px;
+  border-bottom: 1px solid #ddd;
+}
+td {
+  padding: 10px;
+
+  border-bottom: 1px solid #ddd;
+}
+
+button {
+  margin-right: 5px;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+.edits {
+  background: green;
+  color: white;
+}
+
+.delete {
+  background: red;
+  color: white;
+}

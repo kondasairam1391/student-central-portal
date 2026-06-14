@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  font-family: Arial, sans-serif;
+}
+
+.app-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 30px;
+}
